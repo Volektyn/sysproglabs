@@ -1,0 +1,7 @@
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\bin\Debug\Sender1.0.exe.config
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\bin\Debug\Sender1.0.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\bin\Debug\Sender1.0.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\obj\Debug\Sender1.0.csprojResolveAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\obj\Debug\Sender1.0.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\obj\Debug\Sender1.0.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\Sender1.0\Sender1.0\obj\Debug\Sender1.0.pdb

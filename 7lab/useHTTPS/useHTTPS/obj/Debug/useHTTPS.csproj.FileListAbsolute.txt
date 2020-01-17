@@ -1,0 +1,6 @@
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\obj\Debug\useHTTPS.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\bin\Debug\useHTTPS.exe.config
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\bin\Debug\useHTTPS.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\bin\Debug\useHTTPS.pdb
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\obj\Debug\useHTTPS.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTPS\useHTTPS\obj\Debug\useHTTPS.pdb

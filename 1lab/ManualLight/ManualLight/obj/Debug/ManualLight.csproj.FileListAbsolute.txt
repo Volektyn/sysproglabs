@@ -1,0 +1,14 @@
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\bin\Debug\ManualLight.exe.config
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\bin\Debug\ManualLight.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\bin\Debug\ManualLight.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\obj\Debug\ManualLight.csprojResolveAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\obj\Debug\ManualLight.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\obj\Debug\ManualLight.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Manual-Light\ManualLight\ManualLight\obj\Debug\ManualLight.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\obj\Debug\ManualLight.csprojResolveAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\obj\Debug\ManualLight.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\obj\Debug\ManualLight.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\obj\Debug\ManualLight.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\bin\Debug\ManualLight.exe.config
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\bin\Debug\ManualLight.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\ManualLight\ManualLight\bin\Debug\ManualLight.pdb

@@ -1,0 +1,9 @@
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.ProjectInstaller.resources
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.pdb
+C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache

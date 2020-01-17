@@ -1,0 +1,11 @@
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.Form1.resources
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.Form2.resources
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.Properties.Resources.resources
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.GenerateResource.cache
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\Valentyn\Desktop\sysprog\2lab\FirstTask\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache

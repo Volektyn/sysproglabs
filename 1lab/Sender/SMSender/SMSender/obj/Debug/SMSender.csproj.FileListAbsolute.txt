@@ -1,0 +1,7 @@
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\bin\Debug\SMSender.exe.config
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\bin\Debug\SMSender.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\bin\Debug\SMSender.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\obj\Debug\SMSender.csprojResolveAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\obj\Debug\SMSender.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\obj\Debug\SMSender.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\Sender\SMSender\SMSender\obj\Debug\SMSender.pdb

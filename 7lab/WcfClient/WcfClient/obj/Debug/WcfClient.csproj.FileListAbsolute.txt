@@ -1,0 +1,10 @@
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.Form1.resources
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.Properties.Resources.resources
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.GenerateResource.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\Valentyn\Desktop\sysprog\7lab\WcfClient\WcfClient\obj\Debug\WcfClient.csprojAssemblyReference.cache

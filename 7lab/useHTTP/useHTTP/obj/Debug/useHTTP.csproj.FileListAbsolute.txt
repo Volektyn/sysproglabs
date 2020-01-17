@@ -1,0 +1,7 @@
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\bin\Debug\useHTTP.exe.config
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\bin\Debug\useHTTP.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\bin\Debug\useHTTP.pdb
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\obj\Debug\useHTTP.csprojAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\obj\Debug\useHTTP.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\obj\Debug\useHTTP.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useHTTP\useHTTP\obj\Debug\useHTTP.pdb

@@ -1,0 +1,13 @@
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-3.deps.json
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-3.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-3.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-1.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-2.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-1.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\bin\Debug\netstandard2.0\Library-2.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.AssemblyInfoInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.AssemblyInfo.cs
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.csproj.CopyComplete
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-3\Library-3\obj\Debug\netstandard2.0\Library-3.pdb

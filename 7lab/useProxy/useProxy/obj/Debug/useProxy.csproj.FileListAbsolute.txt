@@ -1,0 +1,6 @@
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\bin\Debug\useProxy.exe.config
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\bin\Debug\useProxy.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\bin\Debug\useProxy.pdb
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\obj\Debug\useProxy.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\obj\Debug\useProxy.exe
+C:\Users\Valentyn\Desktop\sysprog\7lab\useProxy\useProxy\obj\Debug\useProxy.pdb

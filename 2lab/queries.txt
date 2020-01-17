@@ -1,0 +1,38 @@
+﻿1.6.	Напишіть і виконайте запит, що повертає всі записи 1 таблиці. Запам’ятайте запит.
+
+select * from Scope_Of_Drug_Using_Of_Specified_Category
+
+1.7.	Напишіть і виконайте запит, що повертає об'єднану зведену таблицю (використовуючи «INNER JOIN») 
+всіх фахівців і напрямків. Запам’ятайте запит.
+
+select * from Scope_Of_Drug_Using_Of_Specified_Category as x inner join Drug_Category as y 
+on x."Category_ID" = y.Category_ID
+
+1.8.	Напишіть і виконайте запит, що повертає об'єднану таблицю тільки фахівців, 
+що мають конкретний напрямок діяльності, наприклад, "Дизайнер жіночого взуття". Запам’ятайте запит.
+
+select * from Scope_Of_Drug_Using_Of_Specified_Category as x inner join Drug_Category as y 
+on x."Category_ID" = y.Category_ID where Legal = 'no'
+
+1.9.	Напишіть і виконайте запит, що повертає тільки фахівця за його ID. Запам’ятайте запит.
+
+select * from Drug_Category where Category_ID = 2
+
+1.10.	Напишіть і виконайте запит, що додає в 1 таблицю новий запис. Запам’ятайте запит.
+
+insert into Scope_Of_Drug_Using_Of_Specified_Category (Scope_ID, Instruction, Legal, Recipe, Scope_of_use, Category_ID)
+values (2, 'rg','no','eat','somescope',3)
+
+1.11.	Напишіть і виконайте запит, що додає в 2 таблицю новий запис. Запам’ятайте запит.
+
+insert into Drug_Category (Category_ID, Description,Name) values (3, 'pararam', 'rtrtrt')
+
+1.12.	Напишіть і виконайте запити, що змінюють всі поля елемента першої таблиці окрім ID.
+
+update Scope_Of_Drug_Using_Of_Specified_Category set Category_ID='2', Scope_of_use='anotherone', Recipe='no',
+Legal='maybe',Instruction='lick' where Scope_ID='1'
+
+1.13.	Напишіть і виконайте запит, що вилучає фахівця, якщо фахівець має конкретне ID, вказане в запиті.
+
+delete from Scope_Of_Drug_Using_Of_Specified_Category where Scope_ID='1'
+

@@ -1,0 +1,10 @@
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\bin\Debug\outputBD.exe.config
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\bin\Debug\outputBD.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\bin\Debug\outputBD.pdb
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.csprojResolveAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.Form1.resources
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.Properties.Resources.resources
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.csproj.GenerateResource.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.exe
+C:\Users\Valentyn\Desktop\sysprog\1 lab\BD\outputBD\outputBD\obj\Debug\outputBD.pdb

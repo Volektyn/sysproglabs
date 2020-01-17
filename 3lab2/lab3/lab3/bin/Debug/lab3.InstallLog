@@ -1,0 +1,72 @@
+﻿Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Rolling back assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Rolling back assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Rolling back assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Unable to create an instance of the lab3.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Rolling back assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Unable to create an instance of the lab3.ProjectInstaller installer type.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe
+Installing service Task_Queue...
+Service Task_Queue has been successfully installed.
+Creating EventLog source Task_Queue in log Application...
+Committing assembly 'C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.InstallLog
+   assemblypath = C:\Users\Valentyn\Desktop\sysprog\3lab2\lab3\lab3\bin\Debug\lab3.exe

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Library_4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Library-1">
+      <HintPath>..\..\Library-1\Library-1\bin\Debug\netstandard2.0\Library-1.dll</HintPath>
+    </Reference>
+    <Reference Include="Library-3">
+      <HintPath>..\..\Library-3\Library-3\bin\Debug\netstandard2.0\Library-3.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-4.deps.json
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-4.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-4.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-2.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-2.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.AssemblyInfoInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.AssemblyInfo.cs
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.csproj.CopyComplete
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\obj\Debug\netstandard2.0\Library-4.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-1.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-3.dll
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-1.pdb
+C:\Users\Valentyn\Desktop\sysprog\6lab\Library-4\Library-4\bin\Debug\netstandard2.0\Library-3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\bin\Debug\ADDNEWTASK.exe.config
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\bin\Debug\ADDNEWTASK.exe
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\bin\Debug\ADDNEWTASK.pdb
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\obj\Debug\ADDNEWTASK.csprojAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\obj\Debug\ADDNEWTASK.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\obj\Debug\ADDNEWTASK.exe
+C:\Users\Valentyn\Desktop\sysprog\3lab2\ADDNEWTASK\ADDNEWTASK\obj\Debug\ADDNEWTASK.pdb

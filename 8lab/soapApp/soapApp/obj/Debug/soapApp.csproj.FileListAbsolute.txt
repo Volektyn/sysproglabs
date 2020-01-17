@@ -1,0 +1,7 @@
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\obj\Debug\soapApp.csprojAssemblyReference.cache
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\obj\Debug\soapApp.csproj.CoreCompileInputs.cache
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\bin\Debug\soapApp.exe.config
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\bin\Debug\soapApp.exe
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\bin\Debug\soapApp.pdb
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\obj\Debug\soapApp.exe
+C:\Users\Valentyn\Desktop\sysprog\8lab\soapApp\soapApp\obj\Debug\soapApp.pdb
